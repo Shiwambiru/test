@@ -1,2 +1,2 @@
 # first-code
-first repo
+first repo on git commands demonstration
